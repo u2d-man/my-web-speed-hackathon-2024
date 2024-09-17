@@ -129,9 +129,6 @@ importers:
       jotai:
         specifier: 2.7.0
         version: 2.7.0(@types/react@18.2.0)(react@18.2.0)
-      lodash:
-        specifier: 4.17.21
-        version: 4.17.21
       moment-timezone:
         specifier: 0.5.45
         version: 0.5.45
@@ -172,9 +169,6 @@ importers:
         specifier: 3.22.4
         version: 3.22.4
     devDependencies:
-      '@types/lodash':
-        specifier: 4.14.202
-        version: 4.14.202
       '@types/react':
         specifier: 18.2.0
         version: 18.2.0
